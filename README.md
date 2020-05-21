@@ -1,0 +1,2 @@
+# Computer-Vision-Object-Classification
+Object Classification involves developing a system which would take an image as input and predict what kind of object it is, given a set of classes that the system already knows. For the experiments, Fruits 360 dataset from Kaggle is used. The goal of this project is twofold: 1) to create a classifier that can classify an image of a fruit and 2) to try and use this classifier to perform object detection. A bigger focus is placed on creating a classifier than on object detection.
